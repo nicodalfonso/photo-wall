@@ -50,7 +50,7 @@ npm start
 
 _This project was initially created as a part of the Software Engineering Certification program from [Kenzie Academy](https://kenzie.academy)_
 
-_To see the original instructions and acceptance criteria for this project, please reference [README.old.md](https://github.com/nicodalfonso/photo-wall/blob/master/README.md)_
+_To see the original instructions and acceptance criteria for this project, please reference [README.old.md](./README.old.md)_
 
 ## 📝 License
 
