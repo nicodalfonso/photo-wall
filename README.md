@@ -21,6 +21,10 @@
 > - enabling a "load more" feature for the end user, as an alternative to infinite scroll
 > - using CSS styling to create a persistent, "floating" nav bar, as well as a flexbox-based image grid
 
+## Demo
+
+[See it in action!](https://nicodalfonso.github.io/photo-wall)
+
 ## Installation
 
 ```sh
